@@ -24,7 +24,7 @@ A couple guidance hints would be:
 - install python
 - it's pretty straight forward lol
 
-# 1.2 Real World Use
+## 1.2 Real World Use
 It's often difficult to figure out on your own how to apply what you learn to things in your own life or practical things int he real world, so I'll just give you something.
 A fundemental term in data science is 'preprocessing', specifically the preprocessing of data, as you know data science kinda interacts with a lot of data and yeah you get the gist. 
 So here's the goal, write a python script that will convert all the `.png` files into `.jpg` files in a given directory. Additionally, have it track how much time it takes to do this conversion and print result.
